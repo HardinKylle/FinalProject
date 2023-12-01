@@ -8,7 +8,7 @@ Color Game is a Java Swing-based application that allows users to play a simple 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Installation](#Dependencies)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
 
@@ -31,26 +31,31 @@ Color Game is a GUI-based Java application that provides users with an interacti
 - Java Development Kit (JDK)
 - An Integrated Development Environment (IDE) for Java development (e.g., Eclipse, IntelliJ)
 
-### Installation
+# Dependencies Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HardinKylle/FinalProject.git
-2. Open the project in your Java IDE.
+To run the Color Game project, you need to set up the following dependencies:
 
-3.Run the Main class to start the application
+1. **Java Development Kit (JDK):**
+   - Download and install the latest version of JDK from [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) or [OpenJDK](https://adoptopenjdk.net/).
 
-## Usage
+2. **Integrated Development Environment (IDE):**
+   - Choose an IDE for Java development. Recommended options include [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ IDEA](https://www.jetbrains.com/idea/download/).
 
-1. **Launch the application and navigate through the main menu.**
+3. **Clone the Repository:**
+   - Clone the Color Game repository using the following command:
+     ```bash
+     git clone https://github.com/HardinKylle/FinalProject.git
+     ```
 
-2. **Register a user with an initial balance.**
+4. **Open the Project in Your IDE:**
+   - Open the cloned project in your chosen IDE.
 
-3. **Play the Color Game by selecting your preferred options.**
+5. **Run the Main Class:**
+   - Locate the `Main` class in your IDE and run it to start the Color Game application.
 
-4. **View and update user profiles as needed.**
+That's it! You should now have the Color Game up and running.
 
-5. **Save and exit the game when finished.**
+For any issues or questions, feel free to reach out to the project contributors.
 
 ## Gameplay
 
