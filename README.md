@@ -8,7 +8,7 @@ Color Game is a Java Swing-based application that allows users to play a simple 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Dependencies](#Dependencies)
+- [Dependencies](#Dependencies-Setup)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
 
@@ -31,7 +31,7 @@ Color Game is a GUI-based Java application that provides users with an interacti
 - Java Development Kit (JDK)
 - An Integrated Development Environment (IDE) for Java development (e.g., Eclipse, IntelliJ)
 
-# Dependencies Setup
+## Dependencies Setup
 
 To run the Color Game project, you need to set up the following dependencies:
 
