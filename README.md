@@ -7,8 +7,8 @@ Color Game is a Java Swing-based application that allows users to play a simple 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
 - [Contributing](#contributing)
@@ -36,7 +36,6 @@ Color Game is a GUI-based Java application that provides users with an interacti
 ### Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/HardinKylle/FinalProject.git
 2. Open the project in your Java IDE.
