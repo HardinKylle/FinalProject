@@ -11,8 +11,6 @@ Color Game is a Java Swing-based application that allows users to play a simple 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
