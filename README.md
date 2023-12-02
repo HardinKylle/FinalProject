@@ -52,6 +52,12 @@ To run the Color Game project, you need to set up the following dependencies:
 
 5. **Run the Main Class:**
    - Locate the `Main` class in your IDE and run it to start the Color Game application.
+  
+6. **If the images are not showing up the GUI**
+   - Create a new project in your IDE.
+   - Copy and paste the code and create a new folder in the project for the `images`
+   - Transfer the images into the `images` folder
+   - Run the code in the `Main` class
 
 That's it! You should now have the Color Game up and running.
 
