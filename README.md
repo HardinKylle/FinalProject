@@ -11,6 +11,7 @@ Color Game is a Java Swing-based application that allows users to play a simple 
 - [Dependencies](#Dependencies-Setup)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
+- [Creators](#creators)
 
 ## Introduction
 
@@ -68,3 +69,9 @@ For any issues or questions, feel free to reach out to the project contributors.
 - **Roll Dice:** Simulates rolling the dice and displays the color outcomes.
 - **Place Bet:** Users can place bets on specific colors and set bet amounts.
 - **View Profile:** Check user profiles, update balances, and delete users.
+
+## Creators
+
+- Kylle Marius M. Hardin
+- Iolo Christopher M. Bonggay
+- Errol V. Manaog
