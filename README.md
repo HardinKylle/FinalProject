@@ -64,6 +64,18 @@ That's it! You should now have the Color Game up and running.
 
 For any issues or questions, feel free to reach out to the project contributors.
 
+## Usage
+
+1. **Launch the application and navigate through the main menu.**
+
+2. **Register a user with an initial balance.**
+
+3. **Play the Color Game by selecting your preferred options.**
+
+4. **View and update user profiles as needed.**
+
+5. **Save and exit the game when finished.**
+   
 ## Gameplay
 
 - **Roll Dice:** Simulates rolling the dice and displays the color outcomes.
