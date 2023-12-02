@@ -1,6 +1,6 @@
 # Color Game
 
-Color Game is a Java Swing-based application that allows users to play a simple game involving dice rolls and color bets.
+Color Game is a Java Swing-based application that allows users to play a simple game involving dice rolls but with colors and color bets.
 
 ## Table of Contents
 
